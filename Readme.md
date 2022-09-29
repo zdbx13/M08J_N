@@ -1,0 +1,1 @@
+Bootstrap narrow jumbotron template.
